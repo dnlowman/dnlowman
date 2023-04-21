@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Daniel 🧑‍💻
 
-<!--
-**dnlowman/dnlowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm a Senior Software Engineer from London, United Kingdom. I've been programming since my early teens and have professionally been doing it for nearly 10 years!
 
-Here are some ideas to get you started:
+![typing](https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Throughout my career I've worked on several different types of projects ranging from optimization problems to building mobile and web applications!
+
+🌟 My Skills
+```
+Languages: C, C++, Java, Go, Python, PHP, PAWN, JavaScript, HTML, CSS, Objective C
+Frameworks: React Native
+```
+
+📚 Teaching & Helping Others
+
+I really enjoy teaching others and helping them along their journey in programming. 🧑‍🏫 I love to share my knowledge and experience with those looking to upskill. Please add me on my socials and enquire if you'd like to learn with me!
+
+🤝 Let's Connect!
+* Twitter: @radicalfunc
+* LinkedIn: linkedin.com/in/dnlowman
+* Blog: https://daniellowman.dev
