@@ -16,7 +16,7 @@ Frameworks: React Native
 
 I really enjoy teaching others and helping them along their journey in programming. 🧑‍🏫 I love to share my knowledge and experience with those looking to upskill. Please add me on my socials and enquire if you'd like to learn with me!
 
-🤝 Let's Connect!
-* Twitter: @radicalfunc
-* LinkedIn: linkedin.com/in/dnlowman
+🤝 Let's Connect!  
+* Twitter: [@radicalfunc](https://twitter.com/radicalfunc)
+* LinkedIn: https://linkedin.com/in/dnlowman
 * Blog: https://daniellowman.dev
